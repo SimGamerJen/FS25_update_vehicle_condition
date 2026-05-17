@@ -1,4 +1,3 @@
-````markdown
 # FS25 Vehicle Condition Editor
 
 A small Python utility for manually listing and updating vehicle condition values in a Farming Simulator 25 savegame `vehicles.xml` file.
